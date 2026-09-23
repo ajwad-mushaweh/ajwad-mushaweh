@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Ajwad%20Mushaweh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Computer%20Engineer&descAlignY=58&descSize=20&v=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=220&section=header&text=Ajwad%20Mushaweh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Mobile%20Developer%20%7C%20Computer%20Engineer&descAlignY=58&descSize=20&v=3" width="100%"/>
 
 <a href="https://github.com/ajwad-mushaweh">
 <img src="https://readme-typing-svg.demolab.com/?lines=%D8%A3%D8%AC%D9%88%D8%AF+%D9%85%D8%B4%D9%88%D9%91%D9%90%D8%AD+%7C+Ajwad+Mushaweh;Building+for+Web%2C+Mobile+%26+AI;Flutter+%E2%80%A2+React%2FNext.js+%E2%80%A2+Node%2FNestJS+%E2%80%A2+YOLOv8;Damascus%2C+Syria&center=true&width=650&height=45&size=24&color=7F5AF0&vCenter=true&duration=3200&pause=900" alt="Typing SVG" />
